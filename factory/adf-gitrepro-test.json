@@ -1,0 +1,16 @@
+{
+	"name": "adf-gitrepro-test",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84ecffe1-6c5f-4417-84eb-da482a4a0bdf",
+		"tenantId": "26e7803b-8574-4b5f-be92-acac46c8d45f"
+	}
+}
